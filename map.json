@@ -137,7 +137,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/bbb-173-80.bbb.rlp.net\/html5client\/join?sessionToken=https:\/\/olat.vcrp.de\/auth\/RepositoryEntry\/2545451607\/CourseNode\/103354710410080"
+                 "value":"https:\/\/demo.bigbluebutton.org\/gl\/"
                 }],
          "type":"tilelayer",
          "visible":true,
